@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="http://www.gstatic.com/sites/p/279d5c/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/new-fees","deleted":false,"title":"Services and Fees \u670d\u52d9\u53ca\u6536\u8cbb","dir":"ltr"}];
+  var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/279d5c/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":true,"pageSharingId":"jotspot_page","enableUniversalAnalytics":false,"sharingPolicy":"OPENED_WITH_INDICATOR","siteTitle":"Dominion Medical Centre","jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"oAuthForChartsApi":true,"contactStoreMigrationPollForGapi":true,"gapiLoaderUtil":true,"moreMobileStyleImprovements":null,"googleChartsOverGstatic":false,"picasaAlbumInsert":false,"pageDrafts":false,"enableJot2Atari":true,"plusBadge":false,"pdfEmbedSupport":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197","cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttp://sites.google.com/a/dominionmedical.co.nz/dmc/new-fees\u0026service\u003djotspot","analyticsAccountId":"UA-18342847-1","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"http://csi.gstatic.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["http://www.gstatic.com/sites/p/279d5c/system/app/css/sitelayouteditor.css"],"text":["http://www.gstatic.com/sites/p/279d5c/system/js/codemirror.js","http://www.gstatic.com/sites/p/279d5c/system/app/css/codemirror_css.css","http://www.gstatic.com/sites/p/279d5c/system/js/trog_edit__en.js","http://www.gstatic.com/sites/p/279d5c/system/app/css/trogedit.css","/_/rsrc/1521704837000/system/app/css/editor.css","http://www.gstatic.com/sites/p/279d5c/system/app/css/codeeditor.css","/_/rsrc/1521704837000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"dominionmedical.co.nz","baseUri":"","name":"dmc","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"Services and Fees \u670d\u52d9\u53ca\u6536\u8cbb","locale":"en","wuid":"wuid:gx:4d9ff0f2427c46b5","revision":40,"path":"/new-fees","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"new-fees","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="Services and Fees 服務及收費 - Dominion Medical Centre" />
+<meta itemprop="name" content="Services and Fees 服務及收費 - Dominion Medical Centre" />
+<meta property="og:title" content="Services and Fees 服務及收費 - Dominion Medical Centre" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/279d5c/system/app/themes/charcoal/standard-css-charcoal-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="_/rsrc/1521704837000/system/app/css/overlay.css?cb=charcoal38a100150goog-ws-nav-nosidecontent30themedefaultcenter" />
+<link rel="stylesheet" type="text/css" href="_/rsrc/1521704837000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Services and Fees 服務及收費 - Dominion Medical Centre</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox-centered" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="sites-header-title-centered " role="banner" style="height: 100px"><div class="sites-header-cell-buffer-wrapper"><h2></h2></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-links"><li class="unselected"><a class="sites-navigation-link unselected" href="test">Home 首頁</a></li><li class="current"><a class="sites-navigation-link current" href="new-fees">Services and Fees 服務及收費</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="resources">Resources 資源</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="wechat">Wechat 微信</a></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="display: none;">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="display: none;" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Services and Fees 服務及收費</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div><table border="1" cellpadding="0" cellspacing="0" dir="ltr" style="table-layout:fixed;font-size:13px;font-family:arial,sans,sans-serif;border-collapse:collapse;border:1px solid #ccc"><colgroup><col width="409" /><col width="175" /><col width="157" /><col width="140" /></colgroup><tbody><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;font-weight:bold;text-align:center">Consultations (incl ACC) 会诊(包括ACC)</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#ffe599;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">0-12 years/岁</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#ffe599;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">13-17 years/岁</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#ffe599;border-top:1px solid #000000;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">18+ years/岁</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Enrolled 注册病人</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">free 免费</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$12</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$18</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Casual 非注册病人</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">free 免费</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$30</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$50</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Overseas 非居民</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$70</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000"></td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;font-weight:bold;text-align:center">Prescriptions and lab forms<br />处方和验血单</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#ffe599;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">0-12 years/岁</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#ffe599;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">13-17 years/岁</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#ffe599;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">18+ years/岁</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Repeat prescription 重复处方</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">free 免费</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$5</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$10</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Follow up prescription or lab form after abnormal blood tests<br />化验后必须跟进的处方或验血单</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">free 免费</td></tr><tr style="height:17px"><td colspan="4" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">posting or faxing will incur a $5 charge. 邮寄或传真另加 $5</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td></tr><tr style="height:17px"><td colspan="4" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;font-weight:bold;text-align:center">Administrative charges 行政费</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Postage/fax fee 邮寄/传真费</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$5</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Printing fee 印刷费</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$1/page 页</td></tr><tr style="height:17px"><td colspan="4" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;font-weight:bold;text-align:center">Medical Checks 体检</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Driver medical 驾驶执照体检</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$35/$50 (casual)</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Insurance/work/visa medical 其他</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$60+</td></tr><tr style="height:17px"><td colspan="4" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;font-weight:bold;text-align:center">Nursing service 护理服务</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Nurse consultation 护士会诊</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$10</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Nebuliser 喷雾器</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$5</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Smear/use of speculum 子宫颈抹片/妇科检查</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">$20</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Ear syringe 洗耳</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$15/ear 耳</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Intramuscular injections 药物注射(肌内)</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$20</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">ECG 心电图</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$35</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Dressings 敷料/包扎</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$20</td></tr><tr style="height:17px"><td colspan="4" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;font-weight:bold;text-align:center">Other services 其他服务</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">IUCD insertion 放置宫内节育器</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$60</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Removal of IUCD移除宫内节育器</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$20</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">Pregnancy test 怀孕测试</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$10 (negative test 阴性)<br />free 免费 (positive test 阳性)</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Skin biopsies 皮肤活检</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$40+</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">Minor surgery 小手术</td><td colspan="3" rowspan="1" style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;text-align:center">$120+</td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-bottom:1px solid #000000"></td><td></td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;font-weight:bold;text-align:center">Liquid nitrogen (no. of spots) 液氮治疗 (斑点数量)</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">Initial 初次治疗</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;background-color:#b3d580;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;font-weight:bold;vertical-align:middle;text-align:center">Follow-up 跟进治疗</td><td style="padding:0px 3px;vertical-align:bottom"></td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">0 - 5</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">$15</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">$10</td><td style="padding:0px 3px;vertical-align:bottom"></td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">5-10</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">$20</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">$15</td><td style="padding:0px 3px;vertical-align:bottom"></td></tr><tr style="height:17px"><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;border-left:1px solid #000000;font-size:140%;text-align:center">10+</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">$25</td><td style="padding:0px 3px 0px 3px;vertical-align:bottom;border-right:1px solid #000000;border-bottom:1px solid #000000;font-size:140%;vertical-align:middle;text-align:center">$20</td><td style="padding:0px 3px;vertical-align:bottom"></td></tr></tbody></table><font size="4"><b style="font-weight:normal">
+<div></div>
+<div></div>
+</b></font></div>
+<br /><div><span><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style="font-size:18.6666666666667px;font-family:Arial;color:rgb(0,0,0);font-weight:bold;vertical-align:baseline;white-space:pre-wrap;background-color:transparent">This is a price list for common procedures only. Medical staff will inform you of charges for any special procedures whilst obtaining consent. You have the right to decline any procedure, please discuss any issues related to the procedure with our medical staff. </span></p><br /><span style="font-size:18.6666666666667px;font-family:Arial;color:rgb(0,0,0);font-weight:bold;vertical-align:baseline;white-space:pre-wrap;background-color:transparent">这个价格表只包括普通医疗程​​序的</span><span style="font-size:18.6666666666667px;font-family:Arial;color:rgb(33,33,33);font-weight:bold;vertical-align:baseline;white-space:pre-wrap">收费</span><span style="font-size:18.6666666666667px;font-family:Arial;color:rgb(0,0,0);font-weight:bold;vertical-align:baseline;white-space:pre-wrap;background-color:transparent">。医务人员在展开特别医疗程序之前会告知费用和征求同意.你有权利拒绝任何治疗，如果您有任何问题关于医疗程序,请跟我们的医务人员讨论。</span></span></div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-subfooter"><div class="sites-subfooter-content"><div dir="ltr"><div style="color:rgb(62,65,60);font-size:13.3333px;background-color:rgb(255,255,255)"><font face="arial, sans-serif" style="font-size:13px"><div style="font-weight:bold"><font size="2" style="color:rgb(0,0,0);font-weight:400"><span style="color:rgb(62,65,60);font-weight:bold;background-color:transparent">349 Mt Albert Road </span><span style="color:rgb(62,65,60);font-weight:bold;background-color:transparent">,Mt Rosk</span></font><span style="background-color:transparent">ill, </span><span style="background-color:transparent">Auckland </span><span style="background-color:transparent">1041</span></div></font><font face="arial, sans-serif" style="font-size:13px"><div style="font-weight:bold"><div style="font-size:medium;font-weight:400;font-family:Arial,Verdana,sans-serif"><font face="arial, sans-serif" size="2"><span style="background-color:transparent">phone 電話:</span><span style="background-color:transparent">09-6204986 </span><span style="background-color:transparent">fax 傳真:</span><span style="background-color:transparent">09-6201</span></font><span style="background-color:transparent;font-family:arial,sans-serif;font-size:small">349</span></div><div style="font-size:medium;font-weight:400;font-family:Arial,Verdana,sans-serif"><font face="arial, sans-serif" size="2"><span style="background-color:transparent">email 電郵: </span><span style="background-color:transparent">contact@do</span></font><span style="font-family:arial,sans-serif;font-size:small;background-color:transparent">minionmedical.co.nz </span></div><div style="font-size:medium;font-weight:400;font-family:Arial,Verdana,sans-serif"><span style="font-family:arial,sans-serif;font-size:small;background-color:transparent">Wechat: </span><span style="font-family:arial,sans-serif;font-size:small;background-color:transparent">dominion-medical</span></div><div style="font-size:medium;font-weight:400;font-family:Arial,Verdana,sans-serif"><font face="arial, sans-serif" size="2"><font color="#cc0000">please phone the clinic for urgent matters. We will not answer any clinical questions via wecha</font><span style="color:rgb(204,0,0)">t or email. </span></font></div><div style="font-size:medium;font-weight:400;font-family:Arial,Verdana,sans-serif"><font face="arial, sans-serif" size="2"><font color="#cc0000">如有紧急事情，请致电诊所。我们不会在微信或电邮上回答任何医疗问题。 </font></font></div></div></font></div><div style="color:rgb(62,65,60);background-color:rgb(255,255,255)"><font face="arial, sans-serif" size="2"><div style="text-align:right;font-weight:bold">  </div></font><font face="arial, sans-serif" size="2"><div style="font-size:13.3333px;font-weight:bold"></div></font></div></div></div></div>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=http://sites.google.com/a/dominionmedical.co.nz/dmc/new-fees&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="system/app/pages/recentChanges">Recent Site Activity</a><span aria-hidden="true">|</span><a class="sites-system-link" href="http://sites.google.com/a/dominionmedical.co.nz/dmc/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/279d5c/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+      
+          sites.core.Analytics.createTracker();
+          sites.core.Analytics.trackPageview();
+        
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('http://www.dominionmedical.co.nz/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
