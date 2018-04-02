@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dominion Medical Centre
 
 You can use the [editor on GitHub](https://github.com/dominionmedical/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
